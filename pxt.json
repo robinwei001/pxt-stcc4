@@ -1,0 +1,14 @@
+{
+    "name": "pxt-stcc4",
+    "version": "0.1.0",
+    "description": "DFRobot Gravity STCC4 CO2 二氧化碳、温湿度传感器",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
